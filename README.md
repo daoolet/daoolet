@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @daoolet
-- 👀 I’m interested in Automation field
+- 👋 Hi, I’m Daulet
+- 👀 I’m interested in Software developing
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on hold
+- 💞️ I’m currently working in Honeywell as Project Engineer (Process Automation Solution)
 - 📫 How to reach me https://www.linkedin.com/in/daoolet/
 
 <!---
